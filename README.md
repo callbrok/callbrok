@@ -10,7 +10,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🧐 Learning about <strong>advanced operating systems</strong>, <strong>linux kernel</strong>, <strong>malware analysis</strong>, <strong>distributed systems</strong>, <strong>network security</strong> and <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/callbrok">Github</a> and are focused <br> on my academic pursuits.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/callbrok">Github</a> and are focused on my academic pursuits.</li>
 <li>🧠 As Dijkstra said, I believe that computer science is no more about computers than astronomy is about telescopes.</li>
 </ul>
 
