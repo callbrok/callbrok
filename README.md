@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://github.com/callbrok">Marco</a></h2>
 
-<p>I am a graduate student in computer engineering, and I am currently trying to conquer the world and a master's degree at the university of Rome Tor Vergata, Italy.</p>
+<p>I'm a graduate student in computer engineering, and I am currently trying to conquer the world and a master's degree at the university of Rome Tor Vergata, Italy.</p>
 <p>
   <a href="https://www.linkedin.com/in/marco-purificato/"><img src="https://img.shields.io/badge/-@marco-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/marco-purificato/" alt="LinkedIn Badge"></a> </p>
 
